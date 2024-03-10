@@ -1,0 +1,11 @@
+C:\Users\ishik\source\repos\006_HierarchyConverter V4\006_HierarchyConverter V4\obj\Debug\006_HierarchyConverter V4.csproj.AssemblyReference.cache
+C:\Users\ishik\source\repos\006_HierarchyConverter V4\006_HierarchyConverter V4\obj\Debug\006_HierarchyConverter V4.csproj.ResolveComReference.cache
+C:\Users\ishik\source\repos\006_HierarchyConverter V4\006_HierarchyConverter V4\obj\Debug\_006_HierarchyConverter_V4.Form1.resources
+C:\Users\ishik\source\repos\006_HierarchyConverter V4\006_HierarchyConverter V4\obj\Debug\_006_HierarchyConverter_V4.Properties.Resources.resources
+C:\Users\ishik\source\repos\006_HierarchyConverter V4\006_HierarchyConverter V4\obj\Debug\006_HierarchyConverter V4.csproj.GenerateResource.cache
+C:\Users\ishik\source\repos\006_HierarchyConverter V4\006_HierarchyConverter V4\obj\Debug\006_HierarchyConverter V4.csproj.CoreCompileInputs.cache
+C:\Users\ishik\source\repos\006_HierarchyConverter V4\006_HierarchyConverter V4\bin\Debug\006_HierarchyConverter V4.exe.config
+C:\Users\ishik\source\repos\006_HierarchyConverter V4\006_HierarchyConverter V4\bin\Debug\006_HierarchyConverter V4.exe
+C:\Users\ishik\source\repos\006_HierarchyConverter V4\006_HierarchyConverter V4\bin\Debug\006_HierarchyConverter V4.pdb
+C:\Users\ishik\source\repos\006_HierarchyConverter V4\006_HierarchyConverter V4\obj\Debug\006_HierarchyConverter V4.exe
+C:\Users\ishik\source\repos\006_HierarchyConverter V4\006_HierarchyConverter V4\obj\Debug\006_HierarchyConverter V4.pdb
